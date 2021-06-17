@@ -27,6 +27,15 @@ FaunaDB como banco de dados e Prismic para CMS.
 
 - [FaunaDB](https://fauna.com/)
 
+### FQL
+Aplicação possui query para armazenamento  de email utilizando FQL, que permite o uso de condições para suas query, para melhor entendimento a imagem abaixo representa o seguinte entendimento
+````bash
+$ SE O EMAIL NÃO EXISTIR REALIZE O INSERT CASO EXISTA PEGUE OS DADOS.
+
+````
+ <img src="https://i.imgur.com/70qiTB1.png" alt="">
+
+
 
 ## 📝 Como baixar
 
